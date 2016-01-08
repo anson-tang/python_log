@@ -1,2 +1,5 @@
 # python_log
-python loguse logging
+python log
+
+* use logging
+* use logbook 
